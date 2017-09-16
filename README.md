@@ -14,7 +14,7 @@
   - z GitHubu stáhnu OpenCV a OpenCV_contrib
   - *OpenCV_contrib je určeno k vývoji takzvaných "extra" modulů, které přispívají k funkčnosti. Nové moduly často nemají stabilní API a nejsou dobře testovány. Proto by neměli být uvolňovány jako součást oficiální distribuce OpenCV, protože se knihovna snaží udržovat dostatečný výkon, stabilitu a kompatibilitu.*
   - spuštění CMake
-  -*CMake se používá ke kontrole procesu kompilace softwaru pomocí jednoduchých konfiguračních souborů nezávislých na platformě a kompilátoru a vytváření nativních makefile a pracovních prostorů, které lze použít v prostředí kompilátoru podle vašeho výběru.*
+  - *CMake se používá ke kontrole procesu kompilace softwaru pomocí jednoduchých konfiguračních souborů nezávislých na platformě a kompilátoru a vytváření nativních makefile a pracovních prostorů, které lze použít v prostředí kompilátoru podle vašeho výběru.*
     
   ## Zajímavé odkazy 
 https://www.youtube.com/watch?v=4UTSEKzsSvM (Videotutorial k editaci souboru README)
