@@ -12,7 +12,7 @@
   - *instalace závyslostí*
   - *momentálně si nejsem jistý, jestli budu používat jen c++ nebo taky python, proto raději nainstaluju i python knihovny*
   - *z GitHubu stáhnu OpenCV a OpenCV_contrib*
-    -*OpenCV_contrib je určeno k vývoji takzvaných "extra" modulů, které přispívají k funkčnosti. Nové moduly často nemají stabilní API a nejsou dobře testovány. Proto by neměli být uvolňovány jako součást oficiální distribuce OpenCV, protože se knihovna snaží udržovat dostatečný výkon, stabilitu a kompatibilitu.*
+  -*OpenCV_contrib je určeno k vývoji takzvaných "extra" modulů, které přispívají k funkčnosti. Nové moduly často nemají stabilní API a nejsou dobře testovány. Proto by neměli být uvolňovány jako součást oficiální distribuce OpenCV, protože se knihovna snaží udržovat dostatečný výkon, stabilitu a kompatibilitu.*
     
   ## Zajímavé odkazy 
 https://www.youtube.com/watch?v=4UTSEKzsSvM (Videotutorial k editaci souboru README)
