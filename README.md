@@ -1,13 +1,14 @@
 # Maturitni-projekt-OpenCV
 
-## Zajímavé odkazy 
-https://www.youtube.com/watch?v=4UTSEKzsSvM (Videotutorial k editaci souboru README)
-
-https://gist.github.com/application2000/73fd6f4bf1be6600a2cf9f56315a2d91 (Instalace gcc)
-
 ## Postup
 ---
 **16.9.**
 * Instalace Ubuntu 16.04. ve VirtualBoxu
 * Instalace gcc
   - *aktualní verze 6.3.0 (ověření příkazem `gcc -v`)*
+---  
+  
+  ## Zajímavé odkazy 
+https://www.youtube.com/watch?v=4UTSEKzsSvM (Videotutorial k editaci souboru README)
+
+https://gist.github.com/application2000/73fd6f4bf1be6600a2cf9f56315a2d91 (Instalace gcc)
