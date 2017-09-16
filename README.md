@@ -1,7 +1,7 @@
 # Maturitni-projekt-OpenCV
 
 ## Zajímavé odkazy 
-https://gist.github.com/application2000/73fd6f4bf1be6600a2cf9f56315a2d91 (Instalae gcc)
+https://gist.github.com/application2000/73fd6f4bf1be6600a2cf9f56315a2d91 (Instalace gcc)
 
 ## Postup
 ---
