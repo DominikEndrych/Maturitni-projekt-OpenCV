@@ -4,6 +4,7 @@
 ---
 **16.9.**
 * Instalace Ubuntu 16.04. ve VirtualBoxu
+  - *OpenCV lze nainstalovat na Windows, Linux, Android, MacOS, FreeBSD, OpenBSD a mobily se systémem Android, Maemo, iOS. Já jsem zvolil Ubuntu, protože jsem se dočetl, že na Ubuntu je OpenCV méně problémové.*
 * Instalace gcc
   - aktualní verze 6.3.0 (ověření příkazem `gcc -v`)
 ---  
