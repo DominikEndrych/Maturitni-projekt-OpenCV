@@ -25,8 +25,8 @@
     ```
 ---    
 ## Zajímavé odkazy 
-(https://www.youtube.com/watch?v=4UTSEKzsSvM)[Videotutorial k editaci souboru README]
+[Videotutorial k editaci souboru README](https://www.youtube.com/watch?v=4UTSEKzsSvM)
 
-https://gist.github.com/application2000/73fd6f4bf1be6600a2cf9f56315a2d91 (Instalace gcc)
+https://gist.github.com/application2000/73fd6f4bf1be6600a2cf9f56315a2d91 [Instalace gcc]
 
 http://www.learnopencv.com/install-opencv3-on-ubuntu/ (Instalace OpenCV na Ubuntu)
