@@ -23,7 +23,7 @@
     namedWindow("Zobrazeny obrazek", WINDOW_AUTOSIZE);    //vytvoří okno pojmenované podle argumentu
     imshow("Zobrazeny obrazek", img);     //zobrazí obrázek uvnitř zvoleného okna  
     ```
-    - *program kompiluju pomocí  `g++ -std=c++11 nazevProgramu.cpp `pkg-config --libs --cflags opencv` -o nazevProgramu`*
+    - *program kompiluju pomocí  `g++ -std=c++11 nazevProgramu.cpp ` `pkg-config --libs --cflags opencv` ` -o nazevProgramu`*
 ---    
 ## Zajímavé odkazy 
 https://www.youtube.com/watch?v=4UTSEKzsSvM (Videotutorial k editaci souboru README)
