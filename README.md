@@ -18,10 +18,10 @@
   - *CMake se používá ke kontrole procesu kompilace softwaru pomocí jednoduchých konfiguračních souborů nezávislých na platformě a kompilátoru a vytváření nativních makefile a pracovních prostorů, které lze použít v prostředí kompilátoru podle vašeho výběru.*
 * Ověření funkčnosti OpenCV pomocí programu "displayImg.cpp"
     ```
-    Mat img; //objekt, ve kterém bude obrázek uložený
-    img = imread(argv[1], CV_LOAD_IMAGE_COLOR); //funkce "iamread" načte soubor
-    namedWindow("Zobrazeny obrazek", WINDOW_AUTOSIZE); //vytvoří okno pojmenované podle argumentu
-    imshow("Zobrazeny obrazek", img); //zobrazí obrázek uvnitř zvoleného okna  
+    Mat img;    //objekt, ve kterém bude obrázek uložený
+    img = imread(argv[1], CV_LOAD_IMAGE_COLOR);     //funkce "iamread" načte soubor
+    namedWindow("Zobrazeny obrazek", WINDOW_AUTOSIZE);    //vytvoří okno pojmenované podle argumentu
+    imshow("Zobrazeny obrazek", img);     //zobrazí obrázek uvnitř zvoleného okna  
     ```
 ---    
 ## Zajímavé odkazy 
