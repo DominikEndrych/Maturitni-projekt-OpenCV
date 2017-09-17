@@ -30,3 +30,5 @@
 [Instalace gcc](https://gist.github.com/application2000/73fd6f4bf1be6600a2cf9f56315a2d91) 
 
 [Instalace OpenCV na Ubuntu](http://www.learnopencv.com/install-opencv3-on-ubuntu/)
+
+http://opencv-srf.blogspot.cz/2011/09/capturing-images-videos.html
