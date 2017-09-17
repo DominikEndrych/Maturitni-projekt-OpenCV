@@ -31,4 +31,4 @@
 
 [Instalace OpenCV na Ubuntu](http://www.learnopencv.com/install-opencv3-on-ubuntu/)
 
-http://opencv-srf.blogspot.cz/2011/09/capturing-images-videos.html
+[Zobrazení videa C++/Python](https://www.learnopencv.com/read-write-and-display-a-video-using-opencv-cpp-python/)
