@@ -35,9 +35,9 @@
 
 ---
 ## Orientační harmonogram
-- Instalace VirtualBox [x]
-- Instalace Ubuntu
-- Instalace OpenCV
-- Otevření obrázku a videa pomocí programu
+- Instalace VirtualBox    [hotovo]
+- Instalace Ubuntu    [hotovo]
+- Instalace OpenCV    [hotovo]
+- Otevření obrázku a videa pomocí programu    [hotovo]
 - Naprogramování softwaru pro detekci a počítání aut
 - Ladění chyb
