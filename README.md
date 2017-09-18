@@ -32,3 +32,12 @@
 [Instalace OpenCV na Ubuntu](http://www.learnopencv.com/install-opencv3-on-ubuntu/)
 
 [Zobrazení videa C++/Python](https://www.learnopencv.com/read-write-and-display-a-video-using-opencv-cpp-python/)
+
+---
+## Orientační harmonogram
+- Instalace VirtualBox [X]
+- Instalace Ubuntu
+- Instalace OpenCV
+- Otevření obrázku a videa pomocí programu
+- Naprogramování softwaru pro detekci a počítání aut
+- Ladění chyb
