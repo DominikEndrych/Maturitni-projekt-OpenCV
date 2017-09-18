@@ -1,4 +1,7 @@
 # Maturitni-projekt-OpenCV
+OpenCV je open-source software, který umožní práci s kamerou, obrázky a videem, sledovat objekty a primitiva a vytvořit primitiva.
+
+Lze programovat ve více jazycích (C++, Python...)
 
 ## Postup
 ---
