@@ -27,6 +27,11 @@ Lze programovat ve více jazycích (C++, Python...)
     imshow("Zobrazeny obrazek", img);     //zobrazí obrázek uvnitř zvoleného okna  
     ```
 ---    
+
+**18.9.**
+sudo apt install python-opencv
+
+---
 ## Zajímavé odkazy 
 [Videotutorial k editaci souboru README](https://www.youtube.com/watch?v=4UTSEKzsSvM)
 
