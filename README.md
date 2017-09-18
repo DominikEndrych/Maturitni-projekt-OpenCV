@@ -35,7 +35,7 @@
 
 ---
 ## Orientační harmonogram
-- Instalace VirtualBox [X]
+- Instalace VirtualBox [x]
 - Instalace Ubuntu
 - Instalace OpenCV
 - Otevření obrázku a videa pomocí programu
