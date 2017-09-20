@@ -41,6 +41,8 @@ sudo apt install python-opencv
 
 [Zobrazení videa C++/Python](https://www.learnopencv.com/read-write-and-display-a-video-using-opencv-cpp-python/)
 
+[Vehicle Detection Haarcascades](https://github.com/andrewssobral/vehicle_detection_haarcascades)
+
 ---
 ## Orientační harmonogram
 - Instalace VirtualBox    [hotovo]
