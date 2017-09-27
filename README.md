@@ -54,6 +54,8 @@ Potřebujeme hodně pozitivních a negativních snímků
 
 https://github.com/mrnugget/opencv-haar-classifier-training
 
+https://www.learnopencv.com/training-better-haar-lbp-cascade-eye-detector-opencv/
+
 ---
 
 ## Orientační harmonogram
