@@ -32,6 +32,13 @@ Lze programovat ve více jazycích (C++, Python...)
 sudo apt install python-opencv
 
 ---
+
+**Tvoření vlastního classifieru**
+Potřebujeme hodně pozitivních a negativních snímků
+  -pozitivní snímky jsou snímky, které obsahují objekt, který chceme sledovat
+  -negativní snímek obsahuje
+
+
 ## Zajímavé odkazy 
 [Videotutorial k editaci souboru README](https://www.youtube.com/watch?v=4UTSEKzsSvM)
 
@@ -45,11 +52,10 @@ sudo apt install python-opencv
 
 [Tvoření vlastního classifier](http://coding-robin.de/2013/07/22/train-your-own-opencv-haar-classifier.html)
 
----
-
-Zkouška background extraction.
+https://github.com/mrnugget/opencv-haar-classifier-training
 
 ---
+
 ## Orientační harmonogram
 - Instalace VirtualBox    [hotovo]
 - Instalace Ubuntu    [hotovo]
