@@ -44,6 +44,10 @@ sudo apt install python-opencv
 [Vehicle Detection Haarcascades](https://github.com/andrewssobral/vehicle_detection_haarcascades)
 
 ---
+
+Zkouška background extraction.
+
+---
 ## Orientační harmonogram
 - Instalace VirtualBox    [hotovo]
 - Instalace Ubuntu    [hotovo]
