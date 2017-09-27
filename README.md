@@ -43,6 +43,8 @@ sudo apt install python-opencv
 
 [Vehicle Detection Haarcascades](https://github.com/andrewssobral/vehicle_detection_haarcascades)
 
+[http://coding-robin.de/2013/07/22/train-your-own-opencv-haar-classifier.html](Train own classifier)
+
 ---
 
 Zkouška background extraction.
