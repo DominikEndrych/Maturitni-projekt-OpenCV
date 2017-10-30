@@ -58,6 +58,8 @@ https://www.learnopencv.com/training-better-haar-lbp-cascade-eye-detector-opencv
 
 GTK2 - dev
 
+[Screenshot v pythonu](https://gist.github.com/initbrain/6628609)
+
 ---
 
 ## Orientační harmonogram
