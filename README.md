@@ -60,6 +60,10 @@ GTK2 - dev
 
 [Screenshot v pythonu](https://gist.github.com/initbrain/6628609)
 
+[Gstreamer video PDF](http://brettviren.github.io/pygst-tutorial-org/pygst-tutorial.pdf)
+
+[Pyatogui screenshot](http://pyautogui.readthedocs.io/en/latest/screenshot.html)
+
 ---
 
 ## Orientační harmonogram
