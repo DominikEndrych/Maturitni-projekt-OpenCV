@@ -63,6 +63,7 @@ GTK2 - dev
 [Gstreamer video PDF](http://brettviren.github.io/pygst-tutorial-org/pygst-tutorial.pdf)
 
 [Pyatogui screenshot](http://pyautogui.readthedocs.io/en/latest/screenshot.html)
+https://stackoverflow.com/questions/44670188/gtk3-widget-mouse-events-pass-through
 
 ---
 
