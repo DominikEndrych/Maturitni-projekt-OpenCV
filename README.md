@@ -64,6 +64,7 @@ GTK2 - dev
 
 [Pyatogui screenshot](http://pyautogui.readthedocs.io/en/latest/screenshot.html)
 https://stackoverflow.com/questions/44670188/gtk3-widget-mouse-events-pass-through
+https://ubuntuforums.org/archive/index.php/t-1792489.html
 
 ---
 
