@@ -92,5 +92,15 @@ http://www.peteronion.org.uk/PyGobjectGtk+3/PyGtk.html
 ## OpenCV
 
 OpenCV (Open Source Computer Vision) je knihovna funkcí, která se zaměřuje především na "počítačovou vizi." Tzn. jak počítače dokážou rozumět digitálním obrázkům nebo videu. Chceme tedy, aby počítače byly schopny toho, co lidská vizuální soustava. Data, která pomocí OpenCV získáme, můžeme poté úkládat do různých databází, grafů atd. OpneCV bylo původně vyvíjeno společností Intel a nyní je poskytováno pod open-source BSD licencí.
+
 OpenCV je napsáno v C++ a jeho primární interface je C++. Bez problému lzve však použít také Python, Java, C# nebo Ruby. Všechny nové algoritmy jsou vyvíjeny v C++.
+
+K nejpoužívanějším algoritmům v OpenCV patří:
+  -rozpoznávání obličeje
+  -rozpoznávání gest
+  -interagkce člověk-počítač
+  -mobilní robotika
+  -zachycení pohybu
+  -rozpoznání pohybu
+  -identifikae objektů
 
