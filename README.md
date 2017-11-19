@@ -103,3 +103,11 @@ K nejpoužívanějším algoritmům v OpenCV patří:
   - zachycení pohybu
   - rozpoznání pohybu
   - identifikace objektů
+
+## Haar Cascade
+
+Haar Cascade je classifier, který používáme pro detekci objektů, pro které byl vytrénován. Classifier nejprve musíme natrénovat použitím spousty pozitivních a negativních snímků. Pozitivní snímky obsahují objekt (auto, obličej, předmět), který chceme rozpoznávat. Negativní snímky, které daný objekt neobsahují. Nejlépe pozadí, na kterém by se objekt mohl vyskytovat. Doporučuje se používat více negativních než pozitivních snímků s tím, že snímky budou mít stejné rozměry. Trénování probíhá na několik fází. Čím více snímků použijeme, tím déle to bude trvat, ale získáme lepší a "chytřejší" classifier. V každé fázi se pozitivní snímky náhodně přiřazují na negativní snímky a tím classifier získává přehled o tom, jak sledované objekty vypadají.
+
+Když classifier natrénujeme, můžeme jej použít na libovolná videa nebo obrázky (samozřejmě s podporou námi napsaného programu). Classifier nám vrátí "1" pokud ve skenovaném regionu najde sledovaný objekt (v opačném případě vrátí "0"). Skenování a hledání objektu probíhá na celém obrázku.
+
+Slovo "cascade" používáme, protože výsledný classifier je složen z jednoduších fází. Každá fáze se poté aplikuje na skenované video nebo obrázek, dokud podezřelý objekt je buď potvrzen jako sledovaný objekt nebo vyvrácen.
