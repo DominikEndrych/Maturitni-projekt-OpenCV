@@ -96,11 +96,10 @@ OpenCV (Open Source Computer Vision) je knihovna funkcí, která se zaměřuje p
 OpenCV je napsáno v C++ a jeho primární interface je C++. Bez problému lzve však použít také Python, Java, C# nebo Ruby. Všechny nové algoritmy jsou vyvíjeny v C++.
 
 K nejpoužívanějším algoritmům v OpenCV patří:
-  -rozpoznávání obličeje
-  -rozpoznávání gest
-  -interagkce člověk-počítač
-  -mobilní robotika
-  -zachycení pohybu
-  -rozpoznání pohybu
-  -identifikae objektů
-
+  - rozpoznávání obličeje
+  - rozpoznávání gest
+  - interagkce člověk-počítač
+  - mobilní robotika
+  - zachycení pohybu
+  - rozpoznání pohybu
+  - identifikae objektů
