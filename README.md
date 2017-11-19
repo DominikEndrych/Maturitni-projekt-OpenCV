@@ -87,7 +87,6 @@ http://www.peteronion.org.uk/PyGobjectGtk+3/PyGtk.html
 
 ---
 
-#Dokumentace
 
 ##OpenCV
 
