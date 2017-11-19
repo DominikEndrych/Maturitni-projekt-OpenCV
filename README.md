@@ -87,7 +87,8 @@ http://www.peteronion.org.uk/PyGobjectGtk+3/PyGtk.html
 
 ---
 
+# Dokumentace
 
-##OpenCV
+## OpenCV
 
 OpenCV (Open Source Computer Vision) je knihovna funkcí, která se zaměřuje především na "počítačovou vizi." Tzn. jak počítače dokážou rozumět digitálním obrázkům nebo videu. Chceme tedy, aby počítače byly schopny toho, co lidská vizuální soustava. Data, která pomocí OpenCV získáme můžeme poté úkládat do různých databází, grafů atd.
