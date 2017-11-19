@@ -85,6 +85,8 @@ http://www.peteronion.org.uk/PyGobjectGtk+3/PyGtk.html
 - Naprogramování softwaru pro detekci a počítání aut
 - Ladění chyb
 
+---
+
 #Dokumentace
 
 ##OpenCV
