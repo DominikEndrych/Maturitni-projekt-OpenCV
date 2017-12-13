@@ -75,6 +75,10 @@ http://python-gtk-3-tutorial.readthedocs.io/en/latest/introduction.html
 
 http://www.peteronion.org.uk/PyGobjectGtk+3/PyGtk.html
 
+https://github.com/animeshsrivastava24/3D-SCANNER-IITB/blob/master/Root.py
+
+https://www.root.cz/clanky/tvorba-gui-v-pythonu-s-pyside-dalsi-dostupne-ovladaci-prvky/
+
 ---
 
 ## Orientační harmonogram
