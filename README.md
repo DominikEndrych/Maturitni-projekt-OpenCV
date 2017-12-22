@@ -28,28 +28,27 @@ Lze programovat ve více jazycích (C++, Python...)
     ```
       
     ```
-    VideoCapture cap("wildlife.wmv"); //otevře zvolené video
-	if(!cap.isOpened()) //jestli se video neotevře, program se ukončí
-	{
-		cout<<"Video se nepodarilo otevrit"<<endl;
-		return -1;
-	}
-	while(1)
-	{
-		Mat frame;
-		cap >> frame; //postupně zachycuje snímky
-		if(frame.empty()) //jsetli je snímek prázdný,hned break
-			break;
-		imshow("Prehravane video", frame); //zobrazí aktualní snímek
-		char c=(char)waitKey(25);
-		if(c==27)	//po zmáčknutí "escape" se video ukončí
-			break;
-	}
-	cap.release(); //když všechno skončí, objekt se uvolní
-	destroyAllWindows(); //zavře všechny snímky
-
-	return 0;
-} 
+   <stages>
+    <_>
+      <maxWeakCount>11</maxWeakCount>
+      <stageThreshold>-1.2678639888763428e+00</stageThreshold>
+      <weakClassifiers>
+        <_>
+          <internalNodes>
+            0 -1 0 -4.8783610691316426e-04</internalNodes>
+          <leafValues>
+            5.9219348430633545e-01 -4.4163608551025391e-01</leafValues></_>
+        <_>
+          <internalNodes>
+            0 -1 1 -4.2209611274302006e-04</internalNodes>
+          <leafValues>
+            3.0318650603294373e-01 -3.2912918925285339e-01</leafValues></_>
+        <_>
+          <internalNodes>
+            0 -1 2 -4.9940118333324790e-04</internalNodes>
+          <leafValues>
+            4.8563310503959656e-01 -4.2923060059547424e-01</leafValues></_>
+<_>
     ```
 ---    
 
