@@ -26,6 +26,13 @@ Lze programovat ve více jazycích (C++, Python...)
     namedWindow("Zobrazeny obrazek", WINDOW_AUTOSIZE);    //vytvoří okno pojmenované podle argumentu
     imshow("Zobrazeny obrazek", img);     //zobrazí obrázek uvnitř zvoleného okna  
     ```
+      
+    ```
+    Mat img;    //objekt, ve kterém bude obrázek uložený
+    img = imread(argv[1], CV_LOAD_IMAGE_COLOR);     //funkce "iamread" načte soubor
+    namedWindow("Zobrazeny obrazek", WINDOW_AUTOSIZE);    //vytvoří okno pojmenované podle argumentu
+    imshow("Zobrazeny obrazek", img);     //zobrazí obrázek uvnitř zvoleného okna  
+    ```
 ---    
 
 **18.9.**
