@@ -28,10 +28,28 @@ Lze programovat ve více jazycích (C++, Python...)
     ```
       
     ```
-    Mat img;    //objekt, ve kterém bude obrázek uložený
-    img = imread(argv[1], CV_LOAD_IMAGE_COLOR);     //funkce "iamread" načte soubor
-    namedWindow("Zobrazeny obrazek", WINDOW_AUTOSIZE);    //vytvoří okno pojmenované podle argumentu
-    imshow("Zobrazeny obrazek", img);     //zobrazí obrázek uvnitř zvoleného okna  
+    VideoCapture cap("wildlife.wmv"); //otevře zvolené video
+	if(!cap.isOpened()) //jestli se video neotevře, program se ukončí
+	{
+		cout<<"Video se nepodarilo otevrit"<<endl;
+		return -1;
+	}
+	while(1)
+	{
+		Mat frame;
+		cap >> frame; //postupně zachycuje snímky
+		if(frame.empty()) //jsetli je snímek prázdný,hned break
+			break;
+		imshow("Prehravane video", frame); //zobrazí aktualní snímek
+		char c=(char)waitKey(25);
+		if(c==27)	//po zmáčknutí "escape" se video ukončí
+			break;
+	}
+	cap.release(); //když všechno skončí, objekt se uvolní
+	destroyAllWindows(); //zavře všechny snímky
+
+	return 0;
+} 
     ```
 ---    
 
