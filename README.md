@@ -103,6 +103,8 @@ https://github.com/animeshsrivastava24/3D-SCANNER-IITB/blob/master/Root.py
 
 https://www.root.cz/clanky/tvorba-gui-v-pythonu-s-pyside-dalsi-dostupne-ovladaci-prvky/
 
+https://github.com/jepler/cropgui
+
 ---
 
 ## Orientační harmonogram
